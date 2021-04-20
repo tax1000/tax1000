@@ -1,4 +1,10 @@
-<img src="https://github.com/tax1000/tax1000/blob/main/images/1194296.jpg" width="100%" height="25%">
+<style>
+.parrot {
+  width: 200px;
+  height: 121px;
+}
+</style>
+<img class="parrot" src="https://github.com/tax1000/tax1000/blob/main/images/1194296.jpg">
 ### Hi there 👋
 
 <!--
