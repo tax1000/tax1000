@@ -1,7 +1,7 @@
 # Welcome to my Home Space ⚡
 
 <img src="https://github.com/tax1000/tax1000/blob/main/images/1194296.jpg" alt="this is a parrot">
-<p style="font-size:100px">living for innovation &#128640;</p>
+<h1>living for innovation &#128640;</h1>
 
 <!--
 **tax1000/tax1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
