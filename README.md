@@ -2,7 +2,7 @@
 
 <img src="https://github.com/tax1000/tax1000/blob/main/images/1194296.jpg" alt="this is a parrot">
 <h1>living for innovation &#128640;</h1>
-<h2>Actually pursuing a computer science degree at**[Est](https://esti.mg)**</h2>
+- Actually pursuing a computer science degree at**[Est](https://esti.mg)**
 
 <!--
 **tax1000/tax1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
