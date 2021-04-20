@@ -1,4 +1,4 @@
-<img src="https://github.com/tax1000/tax1000/blob/main/images/1194296.jpg width="70%" height="50%"">
+<img src="https://github.com/tax1000/tax1000/blob/main/images/1194296.jpg" width="70%" height="50%">
 ### Hi there 👋
 
 <!--
