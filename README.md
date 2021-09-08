@@ -1,9 +1,11 @@
-# Welcome to my Home Space ⚡
+<h1>Hey ,I'm Tax <img  src="https://github.com/tax1000/tax1000/blob/main/images/hearts-love.gif" width=100> </h1>
+<h2 align="center">
 
-<img src="https://github.com/tax1000/tax1000/blob/main/images/1194296.jpg" alt="this is a parrot">
+<img src="https://github.com/tax1000/tax1000/blob/main/images/computer.gif" width=400 height=auto>
+  </h2>
 <h1>living for innovation &#128640;</h1>
 
-<details>- Actually pursuing a computer science degree at <a href="https://esti.mg">Esti</a></details>
+<details>- Actually pursuing a computer science degree at </h1><a href="https://esti.mg">Esti<img href="https://esti.mg" align=right src="https://esti.mg/wp-content/uploads/2017/07/logo-esti.jpg" width=100></a></details>
 
 <!--
 **tax1000/tax1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
